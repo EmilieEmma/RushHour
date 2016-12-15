@@ -1,0 +1,13 @@
+- les fichiers sources des configurations se trouvent dans le repertoire :
+racine>puzzles
+
+
+1. Execution du programme Gurobi :
+
+
+2. Execution du programme Dijkstra :
+
+- les fichiers : Car.py, dijk_shortest.py dijkstra.py doivent être dans le repertoire racine
+
+=> exectuer dijkstra.py
+
